@@ -1,4 +1,4 @@
-# ProNEf🍿
+# ProNef 📱⚛️
 
 ## General Info
 **ProNef NFT Marketplace is a Modern UI/UX React Native App**
